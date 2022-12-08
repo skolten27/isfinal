@@ -1,0 +1,33 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    color: rgb(232, 100, 56);
+    background-color: rgb(241, 241, 241);
+
+}
+h4 {
+    font-size: 28px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(14, 60, 105);
+}
+/*List stying*/
+li {
+    font-size: 22px;
+    font-weight: normal;
+    color:rgb(109, 24, 154);
+}
+/* link styling*/
+a {color: rgba(231, 57, 57, 0.811);
+    text-decoration: none;
+}
+a:hover {
+    font-weight: bold;
+    font-size: 21px;
+}
+.bold {
+    font-weight: bold;
+}
+.bg {
+    background-image: url(https://img.freepik.com/free-vector/ink-splash-duotone-stripe-background_1409-1379.jpg?w=1380&t=st=1670525364~exp=1670525964~hmac=ceb72a8645d838c8513b532215dfbfaeffbcb334909e490b2916bdee5e60f8f9);
+    background-position: top center;
+}
