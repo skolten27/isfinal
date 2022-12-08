@@ -31,3 +31,7 @@ a:hover {
     background-image: url(https://img.freepik.com/free-vector/ink-splash-duotone-stripe-background_1409-1379.jpg?w=1380&t=st=1670525364~exp=1670525964~hmac=ceb72a8645d838c8513b532215dfbfaeffbcb334909e490b2916bdee5e60f8f9);
     background-position: top center;
 }
+.relative {
+    position: relative;
+    top: 30px;
+  }
